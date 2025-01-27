@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d58b19bb.css",
+    "main.js": "/static/js/main.fc95f92a.js",
+    "static/media/nuture1.jpg": "/static/media/nuture1.a49aa7a9b7a64918d2ad.jpg",
+    "index.html": "/index.html",
+    "main.d58b19bb.css.map": "/static/css/main.d58b19bb.css.map",
+    "main.fc95f92a.js.map": "/static/js/main.fc95f92a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d58b19bb.css",
+    "static/js/main.fc95f92a.js"
+  ]
+}
